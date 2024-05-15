@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(212, 192, 4);
+}
+
+canvas{
+    border: 4px solid black;
+    background-image: url(plano.jpg);
+    border-bottom: transparent;
+    margin: 0 auto;
+    display: block;
+}
+.destruirMuro{
+    background-color: red; 
+    color: white; 
+    font-weight: bold; 
+    padding: 5px 10px; 
+    border-radius: 5px;
+}
+
+
+.Puntos{
+    text-align: center;
+    font-size: 30;
+    font-family: serif;
+    color: black;
+}
+
+.Vidas{
+    text-align: center;
+    font-size: 30;
+    font-family: serif;
+    color: black;
+}
+
+.vpala{
+    text-align: left;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.vbola{
+    text-align: left;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.congelas{
+    text-align: left;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.ArrowUp{
+    text-align: left;
+    font-size: 20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
